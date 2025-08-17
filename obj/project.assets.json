@@ -641,11 +641,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\miharifeno.andrianar\\Documents\\GitHub\\microservices\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\miharifeno.andrianar\\Documents\\GitHub\\microservices\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\miharifeno.andrianar\\Documents\\GitHub\\microservices\\TodoApi\\TodoApi.csproj",
+      "projectPath": "C:\\Users\\miharifeno.andrianar\\Documents\\GitHub\\microservices\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\miharifeno.andrianar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\miharifeno.andrianar\\Documents\\GitHub\\microservices\\TodoApi\\obj\\",
+      "outputPath": "C:\\Users\\miharifeno.andrianar\\Documents\\GitHub\\microservices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
